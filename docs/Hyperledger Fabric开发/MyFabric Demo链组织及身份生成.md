@@ -1,4 +1,4 @@
-本文为[Hyperledger Fabric定制化联盟链搭建教程](https://www.jianshu.com/p/4fd103dee864)系列第一篇，介绍MyFabric Demo链的各种组织和身份如何创建。
+本文为[Hyperledger Fabric定制化联盟链搭建教程](https://github.com/57blocks/blockchain-articles/blob/master/docs/Hyperledger%20Fabric%E5%BC%80%E5%8F%91/Hyperledger%20Fabric%E5%AE%9A%E5%88%B6%E5%8C%96%E8%81%94%E7%9B%9F%E9%93%BE%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B.md)系列第一篇，介绍MyFabric Demo链的各种组织和身份如何创建。
 
 本篇代码可以从Github上下载 - [myfabric-demo-chain](https://github.com/fftt2017/myfabric-demo-chain)
 
@@ -150,4 +150,4 @@ org1
 
 **CA证书中的names**由CA服务配置文件中`csr`部分指定，**其它生成证书的names**由`--csr.names`指定。
 
-本篇完，请继续阅读[Hyperledger Fabric定制化联盟链搭建教程](https://www.jianshu.com/p/4fd103dee864)系列第二篇 - [MyFabric Demo链节点启动及合约部署调用]()
+本篇完，请继续阅读[Hyperledger Fabric定制化联盟链搭建教程](https://github.com/57blocks/blockchain-articles/blob/master/docs/Hyperledger%20Fabric%E5%BC%80%E5%8F%91/Hyperledger%20Fabric%E5%AE%9A%E5%88%B6%E5%8C%96%E8%81%94%E7%9B%9F%E9%93%BE%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B.md)系列第二篇 - [MyFabric Demo链节点启动及合约部署调用](https://github.com/57blocks/blockchain-articles/blob/master/docs/Hyperledger%20Fabric%E5%BC%80%E5%8F%91/MyFabric%20Demo%E9%93%BE%E8%8A%82%E7%82%B9%E5%90%AF%E5%8A%A8%E5%8F%8A%E5%90%88%E7%BA%A6%E9%83%A8%E7%BD%B2%E8%B0%83%E7%94%A8.md)
