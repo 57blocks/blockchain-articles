@@ -1,4 +1,4 @@
-本文为[Hyperledger Fabric定制化联盟链搭建教程](https://www.jianshu.com/p/4fd103dee864)系列第二篇，介绍MyFabric Demo链的启动和合约部署以及调用
+本文为[Hyperledger Fabric定制化联盟链搭建教程](https://github.com/57blocks/blockchain-articles/blob/master/docs/Hyperledger%20Fabric%E5%BC%80%E5%8F%91/Hyperledger%20Fabric%E5%AE%9A%E5%88%B6%E5%8C%96%E8%81%94%E7%9B%9F%E9%93%BE%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B.md)系列第二篇，介绍MyFabric Demo链的启动和合约部署以及调用
 
 本篇代码可以从Github上下载 - [myfabric-demo-chain](https://github.com/fftt2017/myfabric-demo-chain)
 
@@ -111,5 +111,5 @@ peer-cli
 
 9. **合约docker镜像根据节点名、合约名、合约版本生成**，如果更新合约代码但并没有修改版本号，需要删除已有的docker镜像，重新生成才会生效。
 
-本篇完，请继续阅读[Hyperledger Fabric定制化联盟链搭建教程](https://www.jianshu.com/p/4fd103dee864)系列第三篇 - [MyFabric Demo Java SDK访问示例]()
+本篇完，请继续阅读[Hyperledger Fabric定制化联盟链搭建教程](https://github.com/57blocks/blockchain-articles/blob/master/docs/Hyperledger%20Fabric%E5%BC%80%E5%8F%91/Hyperledger%20Fabric%E5%AE%9A%E5%88%B6%E5%8C%96%E8%81%94%E7%9B%9F%E9%93%BE%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B.md)系列第三篇 - [MyFabric Demo Java SDK访问示例](https://github.com/57blocks/blockchain-articles/blob/master/docs/Hyperledger%20Fabric%E5%BC%80%E5%8F%91/MyFabric%20Demo%20Java%20SDK%E8%AE%BF%E9%97%AE%E7%A4%BA%E4%BE%8B.md)
 
