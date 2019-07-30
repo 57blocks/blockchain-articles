@@ -1,6 +1,6 @@
 ### 起因
 
-个人判断国内区块链发展方向应为联盟链，这在[区块链技术总结及发展展望](https://www.jianshu.com/p/3a8b6cf9f6d3）)一文中已详细阐述。并在主导的联盟链项目中选择**Hyperledger Fabric**作为底层技术框架（R3的Corda需要收费其主要针对金融项目，金链盟主导的FISCO BCOS还处于发展之中）。
+个人判断国内区块链发展方向应为联盟链，这在[区块链技术总结及发展展望](https://github.com/57blocks/blockchain-articles/blob/master/docs/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%A0%94%E7%A9%B6%E5%88%86%E6%9E%90/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%93%E5%8F%8A%E5%8F%91%E5%B1%95%E5%B1%95%E6%9C%9B.md）)一文中已详细阐述。并在主导的联盟链项目中选择**Hyperledger Fabric**作为底层技术框架（R3的Corda需要收费其主要针对金融项目，金链盟主导的FISCO BCOS还处于发展之中）。
 
 **Hyperledger Fabric**入门并不复杂，按照官方例子[Building Your First Network](https://hyperledger-fabric.readthedocs.io/en/release-1.4/build_network.html)很容易完成链搭建，创建通道，部署合约，调用合约等过程。
 
@@ -28,9 +28,9 @@
 
 ### 大纲
 
-1. [MyFabric Demo链组织及身份生成](https://www.jianshu.com/p/ffcf6d5dfdaf)
-2. [MyFabric Demo链节点启动及合约部署调用](https://www.jianshu.com/p/e6cf9df5fcc3)
-3. [MyFabric Demo Java SDK访问示例](https://www.jianshu.com/p/1fce62691d4c)
+1. [MyFabric Demo链组织及身份生成](https://github.com/57blocks/blockchain-articles/blob/master/docs/Hyperledger%20Fabric%E5%BC%80%E5%8F%91/MyFabric%20Demo%E9%93%BE%E7%BB%84%E7%BB%87%E5%8F%8A%E8%BA%AB%E4%BB%BD%E7%94%9F%E6%88%90.md)
+2. [MyFabric Demo链节点启动及合约部署调用](https://github.com/57blocks/blockchain-articles/blob/master/docs/Hyperledger%20Fabric%E5%BC%80%E5%8F%91/MyFabric%20Demo%E9%93%BE%E8%8A%82%E7%82%B9%E5%90%AF%E5%8A%A8%E5%8F%8A%E5%90%88%E7%BA%A6%E9%83%A8%E7%BD%B2%E8%B0%83%E7%94%A8.md)
+3. [MyFabric Demo Java SDK访问示例](https://github.com/57blocks/blockchain-articles/blob/master/docs/Hyperledger%20Fabric%E5%BC%80%E5%8F%91/MyFabric%20Demo%20Java%20SDK%E8%AE%BF%E9%97%AE%E7%A4%BA%E4%BE%8B.md)
 
 ### 源代码
 本教程的完整代码可以从**GitHub**上下载
