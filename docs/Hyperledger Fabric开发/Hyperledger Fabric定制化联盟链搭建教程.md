@@ -34,8 +34,8 @@
 
 ### 源代码
 本教程的完整代码可以从**GitHub**上下载
-**MyFabric链代码** - [myfabric-demo-chain](https://github.com/fftt2017/myfabric-demo-chain)
-**MyFabric Java客户端代码** - [myfabric-demo-java-client](https://github.com/fftt2017/myfabric-demo-java-client)
+- **MyFabric链代码** - [myfabric-demo-chain](https://github.com/fftt2017/myfabric-demo-chain)
+- **MyFabric Java客户端代码** - [myfabric-demo-java-client](https://github.com/fftt2017/myfabric-demo-java-client)
 
 
 
