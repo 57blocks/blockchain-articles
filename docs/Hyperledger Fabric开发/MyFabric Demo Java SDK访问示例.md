@@ -1,4 +1,4 @@
-本文为[Hyperledger Fabric定制化联盟链搭建教程](https://www.jianshu.com/p/4fd103dee864)系列第三篇，介绍如何使用Hyperledger Fabric Java SDK访问MyFabric Demo链。
+本文为[Hyperledger Fabric定制化联盟链搭建教程](https://github.com/57blocks/blockchain-articles/blob/master/docs/Hyperledger%20Fabric%E5%BC%80%E5%8F%91/Hyperledger%20Fabric%E5%AE%9A%E5%88%B6%E5%8C%96%E8%81%94%E7%9B%9F%E9%93%BE%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B.md)系列第三篇，介绍如何使用Hyperledger Fabric Java SDK访问MyFabric Demo链。
 
 本篇代码可以从Github上下载 - [myfabric-demo-java-client
 ](https://github.com/fftt2017/myfabric-demo-java-client)
@@ -35,7 +35,7 @@
 
 详细信息，请阅读源代码。
 
-本篇完，完成教程请阅读[Hyperledger Fabric定制化联盟链搭建教程](https://www.jianshu.com/p/4fd103dee864)系列。
+本篇完，完成教程请阅读[Hyperledger Fabric定制化联盟链搭建教程](https://github.com/57blocks/blockchain-articles/blob/master/docs/Hyperledger%20Fabric%E5%BC%80%E5%8F%91/Hyperledger%20Fabric%E5%AE%9A%E5%88%B6%E5%8C%96%E8%81%94%E7%9B%9F%E9%93%BE%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B.md)系列。
 
 
 
